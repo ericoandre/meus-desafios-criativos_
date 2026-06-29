@@ -1,4 +1,4 @@
-Prompt Final – Análise de Feedbacks de Clientes Bancários
+# Prompt Final – Análise de Feedbacks de Clientes Bancários
 
 Atue como um analista de dados e especialista em experiência do cliente (Customer Experience – CX) no setor bancário.
 
@@ -8,7 +8,7 @@ Contexto: A análise será utilizada pela equipe de Experiência do Cliente (CX)
 
 Dados disponíveis: A base de dados poderá conter a data do feedback, canal de atendimento, texto do comentário, produto ou serviço mencionado, nota de satisfação (de 1 a 5) e, quando disponível, a categoria do atendimento.
 
-Instruções de análise
+## Instruções de análise
 
 1. Classifique cada feedback por:
    
@@ -28,9 +28,9 @@ Instruções de análise
 
 4. Sugira ações práticas para a equipe de Experiência do Cliente e para os gestores responsáveis pelos serviços analisados.
 
-Formato da resposta
+## Formato da resposta
 
-Apresente os resultados na seguinte estrutura:
+### Apresente os resultados na seguinte estrutura:
 
 - Resumo executivo (até 5 linhas);
 - Tabela contendo:
@@ -41,7 +41,7 @@ Apresente os resultados na seguinte estrutura:
   - Ação recomendada;
 - Lista com as 3 principais prioridades para melhoria dos serviços.
 
-Restrições
+## Restrições
 
 - Utilize exclusivamente os dados fornecidos.
 - Não invente números, causas, tendências ou conclusões sem evidências.
